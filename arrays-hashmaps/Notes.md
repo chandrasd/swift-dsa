@@ -13,18 +13,23 @@ Algorithm Templates:
 - [Binary Search](../notes/AlgoTemplates/BinarySearch.md)
 - [Two Pointers](../notes/AlgoTemplates/TwoPointerAlgos.md)
 - [Sliding Window](../notes/AlgoTemplates/SlidingWindow.md)
+- [BFS](../notes/AlgoTemplates/BFS.md)
+- [DFS](../notes/AlgoTemplates/DFS.md)
 
 # Problem Reviews
 ### Contains duplicates
 - easy set solve. can do it in 1 line
+
 ### Valid Anagram
 - compare hashmaps
 - sort strings, less efficient
+
 ### Two Sum
 - can return an array just like in python
 ```swift
 return [variable1, variable2]
 ```
+
 ### Group Anagrams
 - Simple way to make a dictionary out of a collection. Default case is pretty clean, no need for an else statement if `i` isn't a key in the Dictionary
 ```swift
@@ -36,6 +41,7 @@ for i in something {
 ```swift
 var count = [Character: Int]()
 ```
+
 ### Product of Array except self
 - Cool way to initialize an array
 ```swift

@@ -1,3 +1,8 @@
+### Important Types of Sliding Windows
+- Simple fixed size window
+- Dynamic size, smaller or larger depending on conditions
+- Substring problems, tracking character frequencies + hashmaps
+
 ### Python Template
 
 ```python
@@ -41,5 +46,4 @@ def sliding_window_template_with_examples(s, p):
 ### Swift Template
 
 ```swift
-
 ```

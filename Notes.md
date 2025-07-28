@@ -1,20 +1,20 @@
 # Swift Tricks + Gotchas
 
-Data Structures:
-- [Arrays](../notes/Arrays.md)
-- [Dictionary](../notes/Dictionary.md)
-- [Sets](../notes/Sets.md)
-- [Stacks + Queues](../notes/Stacks+Queues.md)
-- [Heaps](../notes/Heaps.md)
-- [Trees](../notes/Trees.md)
-- [Graphs](../notes/Graphs.md)
+Data Structures Templates:
+- [Arrays](./Notes/DataStructuresTemplates/Arrays.md)
+- [Dictionary](./Notes/DataStructuresTemplates/Dictionary.md)
+- [Sets](./Notes/DataStructuresTemplates/Sets.md)
+- [Stacks + Queues](./Notes/DataStructuresTemplates/Stacks+Queues.md)
+- [Heaps](./Notes/DataStructuresTemplates/Heaps.md)
+- [Trees](./Notes/DataStructuresTemplates/Trees.md)
+- [Graphs](./Notes/DataStructuresTemplates/Graphs.md)
 
 Algorithm Templates:
-- [Binary Search](../notes/AlgoTemplates/BinarySearch.md)
-- [Two Pointers](../notes/AlgoTemplates/TwoPointerAlgos.md)
-- [Sliding Window](../notes/AlgoTemplates/SlidingWindow.md)
-- [BFS](../notes/AlgoTemplates/BFS.md)
-- [DFS](../notes/AlgoTemplates/DFS.md)
+- [Binary Search](./Notes/AlgoTemplates/BinarySearch.md)
+- [Two Pointers](./Notes/AlgoTemplates/TwoPointerAlgos.md)
+- [Sliding Window](./Notes/AlgoTemplates/SlidingWindow.md)
+- [BFS](./Notes/AlgoTemplates/BFS.md)
+- [DFS](./Notes/AlgoTemplates/DFS.md)
 
 # Problem Reviews
 ### Contains duplicates

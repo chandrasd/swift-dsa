@@ -64,3 +64,11 @@ let numsDict = nums.reduce(into: [:]) { $0[$1, default: 0] += 1 }
 ```
 - Bucket Sort Algorithm
 - Might just be better to do Heap Problems in Python
+
+### Valid Palindrome
+- filter for alphanumeric characters only in a strings
+```swift
+if Character.isLetter || Charcter.isNumber {
+    // do something
+}
+```
